@@ -20,7 +20,7 @@ A backend API built with Node.js, Express, MongoDB, and JWT for user authenticat
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/auth-preferences-api.git
+git clone (https://github.com/Divya591/auth-api.git)
 cd auth-preferences-api
 Install dependencies
 
